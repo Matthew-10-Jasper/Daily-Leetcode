@@ -6,6 +6,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
