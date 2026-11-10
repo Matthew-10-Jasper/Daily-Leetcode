@@ -10,10 +10,12 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0064-minimum-path-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
