@@ -10,6 +10,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
+| [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
