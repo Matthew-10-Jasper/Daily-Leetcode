@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
