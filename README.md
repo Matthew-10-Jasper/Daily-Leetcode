@@ -54,8 +54,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
