@@ -74,4 +74,20 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
