@@ -14,6 +14,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -46,6 +47,7 @@
 | [0015-3sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0011-container-with-most-water) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
