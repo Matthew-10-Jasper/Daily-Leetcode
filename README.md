@@ -18,6 +18,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
 | ------- |
