@@ -15,6 +15,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
