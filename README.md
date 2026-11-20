@@ -12,6 +12,7 @@
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1470-shuffle-the-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
