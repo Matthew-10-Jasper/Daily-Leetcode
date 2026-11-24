@@ -16,6 +16,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -64,6 +65,7 @@
 | [0011-container-with-most-water](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
