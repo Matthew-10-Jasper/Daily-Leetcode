@@ -67,6 +67,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
