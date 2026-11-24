@@ -65,6 +65,7 @@
 | [0011-container-with-most-water](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,5 +143,6 @@
 ## String
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
