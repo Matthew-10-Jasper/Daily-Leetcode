@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Simulation
@@ -91,6 +92,7 @@
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3360-stone-removal-game](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
