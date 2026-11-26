@@ -13,6 +13,7 @@
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1470-shuffle-the-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -133,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3903-smallest-stable-index-i](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
@@ -145,6 +147,7 @@
 ## String
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
