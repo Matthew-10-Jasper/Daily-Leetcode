@@ -10,6 +10,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0495-teemo-attacking](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1470-shuffle-the-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
@@ -49,6 +51,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
