@@ -17,6 +17,7 @@
 | [1470-shuffle-the-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1882-process-tasks-using-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -55,6 +56,7 @@
 | [0414-third-maximum-number](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2747-count-zero-request-servers](https://github.com/Matthew-10-Jasper/Daily-Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Counting
